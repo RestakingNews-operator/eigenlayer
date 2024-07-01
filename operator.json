@@ -2,6 +2,6 @@
 	"name": "RestakingNews",
 	"website": "https://github.com/RestakingNews-operator/eigenlayer",
 	"description": "Operator running AVSs",
-	"logo": "raw.githubusercontent.com/RestakingNews-operator/eigenlayer/main/RN.png",
+	"logo": "https://raw.githubusercontent.com/RestakingNews-operator/eigenlayer/main/RN.png",
 	"twitter": "https://x.com/RestakingNO"
 }
